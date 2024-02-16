@@ -1,0 +1,65 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+	list-style: none;
+	text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+
+body {
+	background-color: #000000;
+}
+
+#jc {
+	font-weight: bold;
+	font-size: 30px;
+}
+
+#button {
+	background-color: black;
+}
+
+#landing {
+	margin-top: 150px;
+}
+#profile {
+	margin-top: 100px;
+}
+#my-pic2{
+	width: 320px;
+	height: 370px;
+}
+
+#about-me {
+	background-color: #3C3A3A;
+	background-size: cover;
+}
+#about-me img{
+	margin-left: 150px;
+}	
+
+
+#projects {
+	background-color: #3C3A3A;
+	background-size: cover;
+}
+
+#porjet-1 {
+	background-color: black;
+}
+#porjet-2 {
+	background-color: black;
+}
+#porjet-3 {
+	background-color: black;
+}
+
+
+#form-col {
+	background-color: ;
+}
